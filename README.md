@@ -6,7 +6,7 @@ git clone https://github.com/Gou-Ai/DTMSCDSA.git
 cd DTMSCDSA
 ```
 # Requirements
-```python
+```markdown
 Higher versions should be also available.  
 python 3.7  
 torch==1.13.1+cu117  
@@ -19,10 +19,10 @@ pandas==1.3.5
 scikit-learn==1.0.2  
 ```
 # Installation
-```mark down
+```markdown
 pip install -r requirement.txt
 ```
 # Quick Start
-```python
+```markdown
 run init.py to run DTMSCDSA
 ```
