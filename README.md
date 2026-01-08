@@ -3,7 +3,8 @@ This code and data were provided for the paper "a novel circRNA-drug sensitivity
 # Clone this project
 ``` markdown
 git clone https://github.com/Gou-Ai/DTMSCDSA.git  
-cd DTMSCDSA```
+cd DTMSCDSA
+```
 # Requirements
 Higher versions should be also available.  
 python 3.7  
