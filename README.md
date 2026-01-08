@@ -8,8 +8,8 @@ cd DTMSCDSA
 # Data
 The data is from GATECDA(https://github.com/yjslzx/GATECDA.git).
 # Requirements
-```markdown
 Higher versions should be also available.  
+```markdown
 python 3.7  
 torch==1.13.1+cu117  
 torch-geometric==2.3.1  
