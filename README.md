@@ -5,6 +5,13 @@ This code and data were provided for the paper "a novel circRNA-drug sensitivity
 git clone https://github.com/Gou-Ai/DTMSCDSA.git  
 cd DTMSCDSA
 ```
+# Code
+``` markdown
+DTMSCDSA.py:the framework of DTMSCDSA
+dataprocessing.py:read data  
+param.py:model parameters  
+init.py:the training module
+```
 # Data
 The data is from [GATECDA](https://github.com/yjslzx/GATECDA.git).
 # Requirements
