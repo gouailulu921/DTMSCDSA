@@ -5,6 +5,9 @@ This code and data were provided for the paper "a novel circRNA-drug sensitivity
 git clone https://github.com/Gou-Ai/DTMSCDSA.git  
 cd DTMSCDSA
 ```
+# Description
+code:the code segment of the model  
+data:the dataset segment
 # Code
 ``` markdown
 DTMSCDSA.py:the framework of DTMSCDSA
